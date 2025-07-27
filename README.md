@@ -2,22 +2,22 @@
 
 https://realtime-device-track-11a0.onrender.com
 
-Realtime Device Tracker
+# Realtime Device Tracker
 
 Realtime Device Tracker is a web-based application that allows users to track devices in real time on an interactive map using geolocation. Built with Node.js, Express.js, Socket.IO, and Leaflet.js, this project is ideal for use cases like logistics, delivery tracking, and IoT monitoring.
 
-Features
-Real-time location tracking using WebSockets (Socket.IO)
+## Features
+1) Real-time location tracking using WebSockets (Socket.IO)
 
-Interactive map display with Leaflet.js
+2) Interactive map display with Leaflet.js
 
-Device connection/disconnection handling
+3) Device connection/disconnection handling
 
-Auto-updating markers as devices move
+4) Auto-updating markers as devices move
 
-Simple and responsive UI
+5) Simple and responsive UI
 
-Tech Stack
+## Tech Stack
 Frontend: HTML, CSS, Leaflet.js, Socket.IO Client
 
 Backend: Node.js, Express.js, Socket.IO
